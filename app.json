@@ -1,9 +1,9 @@
 {
-    "name": "Raven session",
+    "name": "june-session",
     "description": "a session generator for raven-bot",
     "logo": "https://files.catbox.moe/ojo6av.jpg",
-    "repository": "https://github.com/HunterNick2/RAVEN-BOT",
-    "keywords": ["RAVEN-BOT"],
+    "repository": "https://github.com/vinpink2/June-Ultra",
+    "keywords": ["JUNE-BOT"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
